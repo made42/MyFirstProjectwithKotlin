@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/My First Project with Kotlin/*
+!/My First Project with Kotlin/task/
+/My First Project with Kotlin/task/*
+!/My First Project with Kotlin/task/src
